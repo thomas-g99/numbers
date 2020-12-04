@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Thomas
+2. Student ID: 2373468
+3. Email: tgooding@chapman.edu 
+4. Class: Freshman
 5. Assignment: numbers 
 
 ## Application Purpose
