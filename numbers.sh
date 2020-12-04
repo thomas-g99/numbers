@@ -1,7 +1,7 @@
 #! bin/bash
 # numbers.sh
 # Thomas Gooding
-chmod 755
+#chmod 755
 echo 'Please enter a positive integer:'
 read -r X
 N=1
