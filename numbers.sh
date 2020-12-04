@@ -7,11 +7,11 @@ read -r X
 N=1
 while "$N" -le "$X"
 do
-N=$((N+1))
 	if $((N%2)) -eq 0
 	then
-		echo "$X even"
+		echo "$N even"
 	else
-		echo "$X odd"
+		echo "$N odd"
 	fi
+	N=$((N+1))
 done
